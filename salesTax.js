@@ -60,6 +60,7 @@ var results = calculateSalesTax(companySalesData, salesTaxRates);
 console.log(results);
 
 
+
 // Exercise
 // Given the following data, implement a function that calculates the total sales and total tax, grouped by company.
 
